@@ -1,0 +1,29 @@
+anchor tag:
+anchor tag is used to link other web pages/other resources. we have a property/attribute with 'blank' value
+
+
+
+
+
+img: images can be inserted into HTML by img tag.
+<img src="path" alt="">
+ims is a self closing tag. they are also called empty elements/unpaired tags
+src attribute contains path, when src failed to load the image,
+
+
+Formatting tags:
+Formatting tags are used to format the text
+  b--- uded to make the text bold
+  storing---used to make the text bold but search engines gives more importance to it than b tag
+  i--- used to make the text italic
+  em--- used to make the text italic but search engines gives more importance to it than i tag
+  u--- used to make the text underlined
+  del--- used to make the text striked out (according to search engine its deleted)
+  ins--- used to make the text inserted according to search engine but it appears as underlined.
+  sup--- used to write superscript
+  sub--- used to write subscript 
+  br--- used to break the line
+  hr--- used to make horizontal line
+  mark--- used to mark/ highlighting the text
+  pre--- used to write performatted text
+  code---used to write codes
